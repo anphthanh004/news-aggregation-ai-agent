@@ -1,1 +1,3 @@
-newsvenv/
+venv/
+.env
+
